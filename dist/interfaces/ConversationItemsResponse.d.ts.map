@@ -1,0 +1,1 @@
+{"version":3,"file":"ConversationItemsResponse.d.ts","sourceRoot":"","sources":["../../src/interfaces/ConversationItemsResponse.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,gBAAgB,EAAE,MAAM,8BAA8B,CAAC;AAErE,MAAM,WAAW,yBAAyB;IACzC,MAAM,EAAE,MAAM,CAAC;IACf,QAAQ,EAAE,MAAM,CAAC;IACjB,OAAO,EAAE,MAAM,CAAC;IAChB,SAAS,EAAE,OAAO,CAAC;IACnB,IAAI,EAAE,KAAK,CAAC,gBAAgB,CAAC,CAAA;CAC7B"}

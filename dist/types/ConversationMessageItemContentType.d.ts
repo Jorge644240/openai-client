@@ -1,0 +1,2 @@
+export type ConversationMessageItemContentType = "input_text" | "output_text" | "text" | "summary_text" | "reasoning_text" | "refusal" | "input_image" | "computer_screenshot" | "input_file";
+//# sourceMappingURL=ConversationMessageItemContentType.d.ts.map

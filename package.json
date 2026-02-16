@@ -1,0 +1,29 @@
+{
+  "name": "openai-client",
+  "version": "0.0.0",
+  "description": "A no-dependency, native OpenAI API wrapper",
+  "keywords": [
+    "openai",
+    "ai",
+    "chatgpt",
+    "gpt"
+  ],
+  "homepage": "https://github.com/Jorge644240/openai-client#readme",
+  "bugs": {
+    "url": "https://github.com/Jorge644240/openai-client/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jorge644240/openai-client.git"
+  },
+  "license": "MIT",
+  "author": "Jorge Gallego",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.3"
+  }
+}

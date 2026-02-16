@@ -1,0 +1,1 @@
+export type Logprobs = [ Array<unknown>, number, string, Logprobs ];
