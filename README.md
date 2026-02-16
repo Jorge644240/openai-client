@@ -18,7 +18,7 @@ This package is built without any external dependencies, making it lightweight a
 To install the package, run the following command in the directory of your project:
 
 ```bash
-npm install openai-client
+npm install client-openai
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ npm install openai-client
 Once installed, import the client and create an instance with your OpenAI API key:
 
 ```javascript
-import OpenAIClient from 'openai-client';
+import OpenAIClient from 'client-openai';
 
 const client = new OpenAIClient('your-api-key-here');
 ```
